@@ -1,0 +1,16 @@
+PODS:
+  - Everyplay-iOS-SDK (2.1.4)
+
+DEPENDENCIES:
+  - Everyplay-iOS-SDK (from `../`)
+
+EXTERNAL SOURCES:
+  Everyplay-iOS-SDK:
+    :podspec: "../"
+
+SPEC CHECKSUMS:
+  Everyplay-iOS-SDK: c056c6427947a61edbf78e8249fe18dc9fd52694
+
+PODFILE CHECKSUM: ea9747f3972e48a32a324bf182d44f3981468966
+
+COCOAPODS: 1.2.1
